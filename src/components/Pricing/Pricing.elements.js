@@ -6,7 +6,7 @@ export const PricingSection = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: #fff;
+  background: #f4ab2e;
 `;
 
 export const PricingWrapper = styled.div`
@@ -24,7 +24,7 @@ export const PricingWrapper = styled.div`
 `;
 
 export const PricingHeading = styled.h1`
-  color: #f4ab2e;
+  color: #fff;
   font-size: 48px;
   margin-bottom: 24px;
 `;

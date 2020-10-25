@@ -1,5 +1,6 @@
-import React from 'react';
-import { IconContext } from 'react-icons/lib';
+import React from "react";
+import ReactPlayer from "react-player";
+import { IconContext } from "react-icons/lib";
 import {
   PricingSection,
   PricingWrapper,
@@ -7,32 +8,18 @@ import {
   PricingContainer,
   PricingCard,
   PricingCardInfo,
-} from './Pricing.elements';
+} from "./Pricing.elements";
 
-import printImg from '../../images/print.png'
+import printImg from "../../images/print.png";
 
 function Pricing() {
   return (
-    <IconContext.Provider value={{ color: '#a9b3c1', size: 64 }}>
+    <IconContext.Provider value={{ color: "#a9b3c1", size: 64 }}>
       <PricingSection>
         <PricingWrapper>
           <PricingHeading>Conheça nosso jogo</PricingHeading>
           <PricingContainer>
-            <PricingCard>
-              <PricingCardInfo>
-                 <img src={printImg} alt="print" />
-              </PricingCardInfo>
-            </PricingCard>
-            <PricingCard>
-              <PricingCardInfo>
-                 <img src={printImg} alt="print" />
-              </PricingCardInfo>
-            </PricingCard>
-            <PricingCard>
-              <PricingCardInfo>
-                 <img src={printImg} alt="print" />
-              </PricingCardInfo>
-            </PricingCard>
+            <ReactPlayer url="https://www.youtube.com/watch?v=Dx49IU39DlI" />
           </PricingContainer>
         </PricingWrapper>
       </PricingSection>

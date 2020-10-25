@@ -12,16 +12,16 @@ export const homeObjOne = {
 
   alt: 'Credit Card'
 };
+
 export const homeObjTwo = {
   primary: true,
   lightBg: false,
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Como Jogar',
-  headline: 'ENSINANDO COMO JOGAR',
-  description:
-    "BLABLABLABLABLABLABLABLABLABLABLABL ABLABLABLABLABLABLABLABLABL ABLABLABLABLABLABLA.",
+  
+  headline: "Pais, responsáveis, educadores e gestores, juntos no combate à obesidade.",
+
   buttonLabel: 'Jogar',
   imgStart: '',
   img: require('../../images/nutri2.png'),
