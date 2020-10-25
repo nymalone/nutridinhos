@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const InfoSec = styled.div`
   color: #fff;
-  padding: 160px 0;
+  padding: 100px 0 160px 0;
   background: ${({ lightBg }) => (lightBg ? '#fff' : '#f4ab2e')};
 `;
 
@@ -62,6 +62,8 @@ export const Img = styled.img`
   vertical-align: middle;
   display: inline-block;
   max-height: 500px;
+
+  margin-bottom: 40px;
 `;
 
 export const Heading = styled.h1`

@@ -9,7 +9,7 @@ export const homeObjOne = {
     'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
   buttonLabel: 'Shop Now',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
+
   alt: 'Credit Card'
 };
 export const homeObjTwo = {
@@ -24,7 +24,7 @@ export const homeObjTwo = {
     "BLABLABLABLABLABLABLABLABLABLABLABL ABLABLABLABLABLABLABLABLABL ABLABLABLABLABLABLA.",
   buttonLabel: 'Jogar',
   imgStart: '',
-  img: require('../../images/objetivo.png'),
+  img: require('../../images/nutri2.png'),
   alt: 'Vault',
   start: ''
 };
@@ -39,7 +39,7 @@ export const homeObjThree = {
     "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
   buttonLabel: 'Start Now',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
+
   alt: 'Vault'
 };
 
@@ -53,6 +53,6 @@ export const homeObjFour = {
     'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
   buttonLabel: 'Sign Up Now',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
+  
   alt: 'Vault'
 };

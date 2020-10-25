@@ -6,10 +6,10 @@ export const homeObjOne = {
   lightTextDesc: true,
   headline: 'Nutridinhos',
   description:
-    'O jogo que vai deixar você e sua família mais saudável!',
+    'Uma plataforma online com jogos destinados a cada fase alimentar,  da gestação ao final da infância.',
   buttonLabel: 'Dowload',
   imgStart: '',
-  img: require('../../images/nutridinhos.png'),
+  img: require('../../images/nutri.png'),
   alt: 'Credit Card',
   start: ''
 };
@@ -26,7 +26,7 @@ export const homeObjTwo = {
     "BLABLABLABLABLAB LABLABLABLABLABLABL ABLABLABLABLABLABLABLABLABL ABLABLABLABLABLABLA.",
   buttonLabel: 'Jogar',
   imgStart: '',
-  img: require('../../images/objetivo.png'),
+  img: require('../../images/nutri2.png'),
   alt: 'Vault',
   start: ''
 };
@@ -37,31 +37,15 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Objetivo',
+
   headline:
-    'PRINCIPAL MOTIVO',
+    'NOSSA MOTIVAÇÃO',
   description:
-    "falando um pouquinho mais sobre o motivo (saúde, energia, bem estar...).",
+    "Informar e educar você e sua família sobre alimentação saudável através de uma aventura gameficada com muita diversão e aprendizado",
   buttonLabel: 'Confirme',
   imgStart: 'start',
-  img: require('../../images/group.png'),
+  img: require('../../images/nutridinho.png'),
   alt: 'Vault',
   start: 'true'
 };
 
-export const homeObjFour = {
-  primary: true,
-  lightBg: false,
-  lightTopLine: true,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: 'Secure Database',
-  headline: 'All your data is stored on our secure server',
-  description:
-    'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-  buttonLabel: 'Sign Up Now',
-  imgStart: 'start',
-  img: require('../../images/svg-3.svg'),
-  alt: 'Vault',
-  start: 'true'
-};
