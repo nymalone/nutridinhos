@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/nymalone/nutridinhos/static/js/main.262099b3.chunk.js",
+    "main.js.map": "/nymalone/nutridinhos/static/js/main.262099b3.chunk.js.map",
+    "runtime-main.js": "/nymalone/nutridinhos/static/js/runtime-main.59297168.js",
+    "runtime-main.js.map": "/nymalone/nutridinhos/static/js/runtime-main.59297168.js.map",
+    "static/js/2.a8c0f777.chunk.js": "/nymalone/nutridinhos/static/js/2.a8c0f777.chunk.js",
+    "static/js/2.a8c0f777.chunk.js.map": "/nymalone/nutridinhos/static/js/2.a8c0f777.chunk.js.map",
+    "index.html": "/nymalone/nutridinhos/index.html",
+    "precache-manifest.0fdfe89e88b4a7d86ee0b0f3127d8cd9.js": "/nymalone/nutridinhos/precache-manifest.0fdfe89e88b4a7d86ee0b0f3127d8cd9.js",
+    "service-worker.js": "/nymalone/nutridinhos/service-worker.js",
+    "static/js/2.a8c0f777.chunk.js.LICENSE.txt": "/nymalone/nutridinhos/static/js/2.a8c0f777.chunk.js.LICENSE.txt",
+    "static/media/nutri.png": "/nymalone/nutridinhos/static/media/nutri.300c0b27.png",
+    "static/media/nutri2.png": "/nymalone/nutridinhos/static/media/nutri2.dc4c507e.png",
+    "static/media/nutridinho.png": "/nymalone/nutridinhos/static/media/nutridinho.9cb2a9db.png",
+    "static/media/print.png": "/nymalone/nutridinhos/static/media/print.5cef0500.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59297168.js",
+    "static/js/2.a8c0f777.chunk.js",
+    "static/js/main.262099b3.chunk.js"
+  ]
+}
