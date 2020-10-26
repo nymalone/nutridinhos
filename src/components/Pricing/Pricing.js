@@ -1,5 +1,5 @@
 import React from "react";
-import ReactPlayer from "react-player";
+
 import { IconContext } from "react-icons/lib";
 import {
   PricingSection,
@@ -19,7 +19,7 @@ function Pricing() {
         <PricingWrapper>
           <PricingHeading>Conheça nosso jogo</PricingHeading>
           <PricingContainer>
-            <ReactPlayer url="https://www.youtube.com/watch?v=Dx49IU39DlI" />
+           
           </PricingContainer>
         </PricingWrapper>
       </PricingSection>
