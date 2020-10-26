@@ -43,6 +43,7 @@ export const homeObjThree = {
     "Informar e educar você e sua família sobre alimentação saudável através de uma aventura gameficada com muita diversão e aprendizado.",
   buttonLabel: 'Confirme',
   imgStart: 'start',
+  
   img: require('../../images/nutridinho.png'),
   alt: 'Vault',
   start: 'true'
